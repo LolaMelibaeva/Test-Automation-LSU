@@ -2,24 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="7856" started-at="2019-06-14T03:01:54Z" finished-at="2019-06-14T03:02:02Z">
+  <suite name="Default suite" duration-ms="1373" started-at="2019-06-20T01:24:19Z" finished-at="2019-06-20T01:24:21Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="7856" started-at="2019-06-14T03:01:54Z" finished-at="2019-06-14T03:02:02Z">
-      <class name="com.syntax.lsu.testcases.LoginTextWithOutPageF">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.syntax.lsu.testcases.LoginTextWithOutPageF@46d56d67]" name="setUp" is-config="true" duration-ms="4790" started-at="2019-06-14T03:01:54Z" finished-at="2019-06-14T03:01:59Z">
+    <test name="Default test" duration-ms="1373" started-at="2019-06-20T01:24:19Z" finished-at="2019-06-20T01:24:21Z">
+      <class name="com.syntax.lsu.testcases.ExcelUtility">
+        <test-method status="PASS" signature="readExcelData()[pri:0, instance:com.syntax.lsu.testcases.ExcelUtility@26be92ad]" name="readExcelData" duration-ms="1351" started-at="2019-06-20T01:24:19Z" finished-at="2019-06-20T01:24:21Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginWithOutPf()[pri:0, instance:com.syntax.lsu.testcases.LoginTextWithOutPageF@46d56d67]" name="loginWithOutPf" duration-ms="2397" started-at="2019-06-14T03:01:59Z" finished-at="2019-06-14T03:02:01Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginWithOutPf -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.syntax.lsu.testcases.LoginTextWithOutPageF@46d56d67]" name="tearDown" is-config="true" duration-ms="649" started-at="2019-06-14T03:02:01Z" finished-at="2019-06-14T03:02:02Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.syntax.lsu.testcases.LoginTextWithOutPageF -->
+        </test-method> <!-- readExcelData -->
+      </class> <!-- com.syntax.lsu.testcases.ExcelUtility -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
